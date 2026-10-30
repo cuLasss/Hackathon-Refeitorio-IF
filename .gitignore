@@ -1,0 +1,7 @@
+# Vitrine publica: os arquivos originais (.pptx) ficam no backup privado.
+*.pptx
+*.ppt
+*.key
+.DS_Store
+Thumbs.db
+desktop.ini
